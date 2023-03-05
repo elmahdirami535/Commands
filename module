@@ -1,5 +1,4 @@
 #!/bin/bash
-read name
 echo "
 #include <stdlib.h>
 #include <time.h>
@@ -18,4 +17,4 @@ int main(void)
 {
 	printf("this is a module");
 	return (0);
-}" >> $name
+}" >> $1
