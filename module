@@ -1,4 +1,5 @@
 #!/bin/bash
+
 echo "
 #include <stdlib.h>
 #include <time.h>
