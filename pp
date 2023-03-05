@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd && ls -lai
+pwd && ls -lai 
