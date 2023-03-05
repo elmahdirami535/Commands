@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s "$(pwd)" /* /usr/local/bin
+ln -s $PWD/* /usr/local/bin
