@@ -10,3 +10,5 @@
  sudo rm /usr/local/bin/say
  sudo rm /usr/local/bin/sheep
  sudo rm /usr/local/bin/update
+ sudo rm /usr/local/bin/duck 
+ ln -s $PWD/* /usr/local/bin
