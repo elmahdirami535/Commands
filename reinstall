@@ -1,0 +1,12 @@
+#!/bin/bash
+ sudo rm /usr/local/bin/milk
+ sudo rm /usr/local/bin/mkd
+ sudo rm /usr/local/bin/module
+ sudo rm /usr/local/bin/pp
+ sudo rm /usr/local/bin/push
+ sudo rm /usr/local/bin/README.md
+ sudo rm /usr/local/bin/reinstall
+ sudo rm /usr/local/bin/run_me.sh
+ sudo rm /usr/local/bin/say
+ sudo rm /usr/local/bin/sheep
+ sudo rm /usr/local/bin/update
