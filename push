@@ -2,5 +2,5 @@
 git status
 git add * 
 git status
-git commit -m "$1 $2 $3 $4 $5 $6 $7 $8 $9 $A $B $C $Z $E $R $T $Y $U $I $O $P $Q $S $D $F $G $H $J $K $L $M $W $X $V $B $N $a $z $e $r $t $y $u $i $o $q $s $d $f $g $h $j $k $l $m $w $x $c $v $b $n"
+git commit -m "$1 $2 $3 $4 $5 $6 $7 $8 $9 $A $B $C $Z $E $R $T $Y $U $I $O $P $Q $S $D $F $G $H $J $K $L $M $W $X $V $B $N $a $z $e $r $t $y $u $i $o $q $s $d $f $g $h $j $k $l $m $w $x $c $v $b $n $aa $az $ae $ar $at $ay $au $ai $ao $ap $aq $as $ad $af $ag $ah $aj $ak $al $am $aw $ax $ac $av $ab $an"
 git push

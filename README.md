@@ -1,5 +1,6 @@
 clone the reposeterie in your local machine using git clone 
-Run the script run_me.sh  by entreing the command ./run_me.sh , and then you can use the commands 
+Run the script run_me.sh  by entreing the command ./first_run , and then you can use the commands 
+note : we will update the package in any time so pls run the command update when it's recomanded to do that
 
 pp == ls -lai
 update == to update all the packages and solve errors 

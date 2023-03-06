@@ -1,2 +1,3 @@
 #!/bin/bash
-sudo apt-get update ; sudo apt-get upgrade ; sudo apt-get dist-upgrade
+sudo rm /usr/local/bin/{milk,mkd,module,pp,push,README.md,update,say,sheep,duck,first-run,package_update}
+ln -s $PWD/* /usr/local/bin
