@@ -3,8 +3,14 @@ clone the reposeterie in your local machine using git clone
 if you are a normal user we recommand you to copy this command and paste it in your terminal .
 
 sudo cd /
+
+
 git clone https://github.com/elmahdirami535/Commands.git
+
+
 ./first-run
+
+
 cd ~
 
 if you are a collaborator you can clone it wherever you want but it's recomanded to clone it in the root.
