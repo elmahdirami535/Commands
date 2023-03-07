@@ -1,7 +1,6 @@
 #!/bin/bash
 
-echo "
-#include <stdlib.h>
+echo "#include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
 
