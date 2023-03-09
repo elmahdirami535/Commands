@@ -1,8 +1,13 @@
 #!/bin/bash
 
-echo "#include <stdlib.h>
+echo "#include <stdio.h>
+#include <math.h>
+#include <string.h>
 #include <time.h>
-#include <stdio.h>
+#include <strings.h>
+#include <stdlib.h>
+#include <ctype.h>
+
 
 
 /**
