@@ -1,2 +1,2 @@
 #!/bin/bash
-xxd -b $1
+xxd -b $1 
