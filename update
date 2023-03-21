@@ -1,3 +1,3 @@
 #!/bin/bash
-sudo rm /usr/local/bin/{'malware!!',binary,main,milk,mkd,module,pp,push,README.md,update,say,sheep,duck,first-run,package_update}
+sudo rm /usr/local/bin/{列表,binary,main,milk,mkd,module,pp,push,README.md,update,say,sheep,duck,first-run,package_update}
 ln -s $PWD/* /usr/local/bin
